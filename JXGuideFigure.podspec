@@ -16,7 +16,7 @@ s.name          = "JXGuideFigure"
             s.source        = { :git => "https://github.com/WowJesse/JXGuideFigure.git", :tag => "0.0.1" }
               s.requires_arc  = true
                 s.description   = <<-DESC
-                        一句话搞定新版本 引导图 .... .... ..... .....
+                        一句话搞定新版本 引导图 .... .... ..... ...... ...... ..... ..... ..... .....
                                                       DESC
                                                         s.source_files  = "JXGuideFigure/*"
                                                           s.platform      = :ios, '7.0'
